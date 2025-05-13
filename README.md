@@ -1,6 +1,6 @@
 # XBOX-Excel
 
-Este repositório apresenta um olhar sobre dados estatísticos simples como média, e valor máximo usando como referência para 2 gráficos de dispersão. Os insigths tirados a partir da visualização foram: verificar se existe uma correlação entre o valor baixo de cupom com o valor vendido total.
+Este repositório apresenta um olhar sobre dados estatísticos simples como soma, e valor máximo usando como referência para 2 gráficos de dispersão. Os insigths tirados a partir da visualização foram: verificar se existe uma correlação entre o valor baixo de cupom com o valor vendido total.
 
 
 
