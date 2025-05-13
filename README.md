@@ -8,7 +8,7 @@ Este repositório apresenta um olhar sobre dados estatísticos simples como soma
 
 
 - **1:** Arquivos de excel 
-- 
+  
 - **2:** Imagens (Print dos gráficos de dispersão)
 
 
